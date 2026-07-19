@@ -1,4 +1,36 @@
-##🌷💭
+# Olá! 👋 Eu sou a Manuela
+
+🎓 Estudante de Ciência da Computação (Anhanguera)
+
+💻 Desenvolvedora Web em formação
+
+📍 Guarapari - ES
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Java (em aprendizado)
+
+## Atualmente estudando
+
+- UX/UI Design
+- Java
+- Git
+- APIs
+
+## Objetivo
+
+Buscando uma oportunidade de estágio em Desenvolvimento Web, Front-end ou Tecnologia da Informação.
+
+📫 Contato
+
+LinkedIn
+
+GitHub
+
+Email
 
  <div>
    <a href="https://github.com/manuela-alves11">
