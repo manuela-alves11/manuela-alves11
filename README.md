@@ -26,11 +26,11 @@ Buscando uma oportunidade de estágio em Desenvolvimento Web, Front-end ou Tecno
 
 📫 Contato
 
-LinkedIn
+LinkedIn - https://www.linkedin.com/in/manuela-alves-e-oliveira/
 
-GitHub
+GitHub - https://github.com/manuela-alves11
 
-Email
+Email - alveseoliveira.manuela11@gmail.com
 
  <div>
    <a href="https://github.com/manuela-alves11">
