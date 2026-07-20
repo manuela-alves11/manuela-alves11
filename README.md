@@ -1,38 +1,63 @@
-# Olá! 👋 Eu sou a Manuela
+# Olá! 👋 Eu sou a Manuela Alves
 
-🎓 Ciência da Computação
+🎓 Estudante de Ciência da Computação (Anhanguera)
 
-💻 Front-end Developer
+💻 Desenvolvedora Front-end em formação
 
-🌎 Brasil
+📍 Espírito Santo - Brasil
 
-🚀 Atualmente estudando Java e UX/UI
+---
 
-## Tecnologias
+## 🚀 Sobre mim
+
+Sou estudante do 3º semestre de Ciência da Computação e apaixonada por tecnologia.
+
+Tenho experiência prática no desenvolvimento de aplicações web utilizando HTML, CSS e JavaScript, incluindo um sistema desenvolvido para uma empresa familiar, além de projetos acadêmicos voltados para algoritmos e estruturas de dados.
+
+Atualmente estou aprofundando meus conhecimentos em UX/UI Design e Java para construir aplicações cada vez mais completas e intuitivas.
+
+Meu objetivo é conquistar minha primeira oportunidade na área de Tecnologia, contribuindo com soluções de qualidade e aprendendo continuamente.
+
+---
+
+## 💻 Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
 - Java (em aprendizado)
 
-## Atualmente estudando
+---
+
+## 📚 Atualmente estudando
 
 - UX/UI Design
 - Java
 - Git
-- APIs
+- GitHub
+- APIs REST
 
-## Objetivo
+---
 
-Buscando uma oportunidade de estágio em Desenvolvimento Web, Front-end ou Tecnologia da Informação.
+## 🎯 Objetivos
 
-📫 Contato
+✔ Desenvolver aplicações modernas
 
-LinkedIn - https://www.linkedin.com/in/manuela-alves-e-oliveira/
+✔ Aprender React
 
-GitHub - https://github.com/manuela-alves11
+✔ Aprender SQL
 
-Email - alveseoliveira.manuela11@gmail.com
+✔ Conquistar minha primeira vaga em TI
+
+---
+
+## 📫 Contato
+
+📧 alveseoliveira.manuela11@gmail.com
+
+💼 LinkedIn - https://www.linkedin.com/in/manuela-alves-e-oliveira/
+
+🌐 GitHub  - https://github.com/manuela-alves11
 
  <div>
    <a href="https://github.com/manuela-alves11">
