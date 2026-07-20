@@ -1,10 +1,12 @@
 # Olá! 👋 Eu sou a Manuela
 
-🎓 Estudante de Ciência da Computação (Anhanguera)
+🎓 Ciência da Computação
 
-💻 Desenvolvedora Web em formação
+💻 Front-end Developer
 
-📍 Guarapari - ES
+🌎 Brasil
+
+🚀 Atualmente estudando Java e UX/UI
 
 ## Tecnologias
 
